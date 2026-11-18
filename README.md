@@ -1,11 +1,11 @@
-<!-- ===================== HEADER ===================== -->
+<!-- =============== VINLAND BANNER =============== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,50:171126,100:09090B&text=ALIREZA%20ZAND&fontColor=EDE9FE&fontSize=45&fontAlignY=38&animation=fadeIn&desc=FRONTEND%20DEVELOPER&descSize=17&descAlignY=58" width="100%" />
+  <img src="./vinland-banner.png" width="100%" alt="Alireza Zand - Vinland Saga Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=Building+the+web%2C+one+idea+at+a+time;Turning+ideas+into+digital+experiences;Learning.+Building.+Improving.;Currently+exploring+React." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=Frontend+Developer;Building+modern+web+experiences;Currently+learning+React;Keep+moving+forward." alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 <br/>
 
-<!-- ===================== TECH ===================== -->
+<!-- ===================== TECH STACK ===================== -->
 
 <h2 align="center">✦ TECH STACK</h2>
 
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=800&color=8B5CF6&center=true&vCenter=true&width=550&lines=HTML+%2F+CSS+%2F+JavaScript;Exploring+React+and+modern+web;Creating+%E2%80%A2+Learning+%E2%80%A2+Growing" alt="Tech animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=800&color=8B5CF6&center=true&vCenter=true&width=550&height=45&lines=HTML+%2F+CSS+%2F+JavaScript;Exploring+React+and+modern+web;Creating+%E2%80%A2+Learning+%E2%80%A2+Growing" alt="Tech animation" />
 </p>
 
 <br/>
@@ -59,12 +59,12 @@
 
 <br/>
 
-<!-- ===================== VINLAND ===================== -->
+<!-- ===================== VINLAND SAGA ===================== -->
 
 <h2 align="center">✦ A DIFFERENT WAY OF THINKING</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=4500&pause=1500&color=E4D9F7&center=true&vCenter=true&width=650&height=70&lines=I+have+no+enemies." alt="Vinland quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=4500&pause=1500&color=E4D9F7&center=true&vCenter=true&width=650&height=70&lines=I+have+no+enemies." alt="Vinland quote animation" />
 </p>
 
 <p align="center">
@@ -72,13 +72,13 @@
 </p>
 
 <p align="center">
-  <i>"You have no enemies. No one has any enemies."</i><br/>
+  <i>You have no enemies. No one has any enemies.</i><br/>
   <sub>— Thors</sub>
 </p>
 
 <br/>
 
-<!-- ===================== JOURNEY ===================== -->
+<!-- ===================== THE JOURNEY ===================== -->
 
 <h2 align="center">✦ THE JOURNEY</h2>
 
@@ -93,13 +93,13 @@
 
 <br/>
 
-<!-- ===================== CONTACT ===================== -->
+<!-- ===================== CONNECT ===================== -->
 
 <h2 align="center">✦ CONNECT</h2>
 
 <p align="center">
   <a href="https://github.com/alihaPR">
-    <img src="https://img.shields.io/badge/GITHUB-alihaPR-09090B?style=for-the-badge&logo=github&logoColor=EDE9FE" />
+    <img src="https://img.shields.io/badge/GITHUB-alihaPR-09090B?style=for-the-badge&logo=github&logoColor=EDE9FE" alt="GitHub profile" />
   </a>
 </p>
 
